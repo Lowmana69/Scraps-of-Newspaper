@@ -1,0 +1,26 @@
+{
+  "name": "scraps-of-newspaper",
+  "version": "1.0.0",
+  "description": "Looking for Scraps of News ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lowmana69/Scraps-of-Newspaper.git"
+  },
+  "author": "Lowmana69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lowmana69/Scraps-of-Newspaper/issues"
+  },
+  "homepage": "https://github.com/Lowmana69/Scraps-of-Newspaper#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
