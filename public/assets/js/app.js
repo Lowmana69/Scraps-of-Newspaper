@@ -4,7 +4,7 @@ import { CoverageSummary } from "istanbul-lib-coverage";
 $(document).ready(function () {
     var newsArticles = $('.article-container');
     $(document).click('.btn-saved', handleArticleSave);
-    $(document).click('.scarps-new', handleArticleScraps);
+    $(document).click('.scraps-new', handleArticleScraps);
 
     initializePage();
 
